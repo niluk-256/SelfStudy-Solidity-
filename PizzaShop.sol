@@ -27,7 +27,7 @@ return pizza_cost;
  function adddetails(uint256 _age , string memory _name) public {
 
  man.push(Man({age:_age , name:_name})); //this is correct
- // man.push(Man(_age ,_name)); //this doesnt work why?
+ // man.push(Man(_age ,_name)); //this doesnt work bcz struct defined Man String first 
 
  }
 
