@@ -1,2 +1,2 @@
 # PizzaShop
-- Copy to Remix IDE
+-  Remix IDE
