@@ -31,7 +31,7 @@ return pizza_cost;
 
  }
 
-function addperson() public {
+function addperson(uint _age , string memory _name) public {
 
 
 
