@@ -1,3 +1,9 @@
+SPDX-License-Identifier: MIT
+pragma solidity ^0.8.1;
+
+ contract ShirtSize {
+
+
 enum   ShirtSize{ 
     small ,// 0
     medium,// 1
@@ -27,4 +33,5 @@ return choice ;
 function getDefautChoice() public pure returns(uint){
 
     return uint(defaultsize) ;
+}
 }
