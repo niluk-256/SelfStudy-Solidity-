@@ -1,2 +1,2 @@
-# PizzaShop
+# SelfStudy Solidity
 -  Remix IDE
